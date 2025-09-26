@@ -1,0 +1,326 @@
+﻿internship_id,title,company,location,skills_required,field
+1,Data Science Intern- Undergrad (Summer 2023),Wipro,"Bangalore, Karnataka, India","Agile, Architecture, Data analysis, Data Analytics, Data strategy, Data visualization",Data Science
+2,R&D Data Scientist Intern (Alternance),Tech Mahindra,"Pune, Maharashtra, India","Big Data, Computer Science, Deep Learning, Engineering, Keras, Python",Data Science
+3,Alternance Data Analyst (H/F),Larsen & Toubro,"Chennai, Tamil Nadu, India","Data analysis, Excel, Power BI, Python, R, R&D",Data Science
+4,MLOps Engineer Intern (Alternance),Tech Mahindra,"Pune, Maharashtra, India","Azure, Big Data, CI/CD, Computer Science, Databricks, Deep Learning",Other
+5,Data Scientist (NLP & ML) Intern (Alternance),Tech Mahindra,"Pune, Maharashtra, India","Azure, Big Data, C++, Computer Science, Deep Learning, Docker",Data Science
+6,Data Analyst / Data Scientist Intern (H/F/X) - July 2023,Zomato,"Gurgaon, Haryana, India","Agile, Clustering, Data analysis, Data visualization, KPIs, Pandas",Data Science
+7,Data Science Intern,Freshworks,"Chennai, Tamil Nadu, India","Avro, AWS, Computer Science, CSV, DynamoDB, Finance",Data Science
+8,Data Scientist - Internship,Razorpay,"Bangalore, Karnataka, India","A/B testing, Engineering, Machine Learning, ML models, MLOps, Model design",Data Science
+9,Data Scientist Intern,Byju's,"Bangalore, Karnataka, India","APIs, Big Data, Business Analytics, Data analysis, Data Analytics, Data visualization",Data Science
+10,Data Analytics Intern,Paytm,"Noida, Uttar Pradesh, India","Banking, Data Analytics, Data visualization, Distributed Systems, Economics, FinTech",Data Science
+11,INTERNSHIP: IT Project Manager - Data Integration (M/F/D),Razorpay,"Bangalore, Karnataka, India","Agile, Engineering, KPIs",Data Science
+12,Analytics Engineer Intern,PhonePe,"Bangalore, Karnataka, India","BigQuery, Computer Science, Data analysis, Data warehouse, Engineering, Finance",Other
+13,"Data Analyst Intern, Business Intelligence",Zscaler India,"Bangalore, Karnataka, India","Business Intelligence, Data governance, Excel, Security, SQL",Data Science
+14,Applied Scientist Intern,Flipkart,"Bangalore, Karnataka, India","Big Data, Data Analytics, Data Mining, Engineering, Machine Learning, Mathematics",Other
+15,Intern - Machine Learning,Swiggy,"Bangalore, Karnataka, India","AWS, Azure, Big Data, Computer Science, Data analysis, Dataflow",Data Science
+16,Data Science - Intern,Razorpay,"Bangalore, Karnataka, India","Classification, Computer Science, Engineering, Finance, FinTech, Machine Learning",Data Science
+17,Data Scientist - Internship,Ola,"Bangalore, Karnataka, India","Data analysis, Data quality, Data visualization, Git, Machine Learning, ML models",Data Science
+18,Intern Program: Data Science Intern,WPP India,"Mumbai, Maharashtra, India","Cluster analysis, Data analysis, Privacy, SAS, Statistics",Data Science
+19,NLP Research Intern,Koo,"Bangalore, Karnataka, India","Conversational AI, Deep Learning, NLP, PhD, PyTorch, Research",Other
+20,Act Two Program - Data Engineer,Sony Pictures Networks India,"Mumbai, Maharashtra, India","Agile, Airflow, Big Data, Computer Science, Data Analytics, Data management",Data Science
+21,Intern Associate Data Analyst – Undergrad – Bangalore,Visa India,"Bangalore, Karnataka, India","Computer Science, Data Analytics, Data visualization, Engineering, Excel, SQL",Data Science
+22,Data Analyst Intern - Business & Product Ops,Koo,"Bangalore, Karnataka, India","BigQuery, Conversational AI, Data visualization, Engineering, Excel, GCP",Data Science
+23,AI Research Scientist Intern,Fractal Analytics,"Mumbai, Maharashtra, India","Computer Science, Deep Learning, Engineering, Machine Learning, NLP, PhD",AI/ML
+24,Internship - Data Science (For Current Students),Visa India,"Bangalore, Karnataka, India","Big Data, Clustering, Computer Science, Data analysis, Data Mining, Econometrics",Data Science
+25,STAGE 6 mois - Data Scientist Junior H/F,Reliance Digital,"Mumbai, Maharashtra, India","Big Data, Power BI, Python, R, SQL",Data Science
+26,Internship - Master Data Management,Bosch India,"Pune, Maharashtra, India","Data Analytics, Data management, Excel, Industrial, Spark",Data Science
+27,Machine Learning Intern,Mahindra & Mahindra,"Chennai, Tamil Nadu, India","Agile, ANN, Architecture, Autonomous Driving, Computer Science, Data analysis",Data Science
+28,Data Science Intern,Lendingkart,"Ahmedabad, Gujarat, India","A/B testing, Computer Science, Data analysis, Data visualization, FinTech, Machine Learning",Data Science
+29,Data Engineering Internship,Druva,"Pune, Maharashtra, India","Angular, APIs, Architecture, Computer Science, Data Analytics, Engineering",Data Science
+30,[Intern] AI/ Computer Vision Engineer,Bosch India,"Bangalore, Karnataka, India","Computer Science, Computer Vision, Consulting, Deep Learning, Economics, Engineering",AI/ML
+31,R&D Data Scientist Intern (Alternance),Tech Mahindra,"Hyderabad, Telangana, India","Big Data, Computer Science, Deep Learning, Engineering, Keras, Python",Data Science
+32,"Software Development Engineer Intern (Summer 2023) - Machine Learning Apps, Acceleration",Amazon India,"Bangalore, Karnataka, India","AWS, Computer Science, Deep Learning, Distributed Systems, EC2, Engineering",Data Science
+33,Data Scientist (NLP & ML) Intern (Alternance),Tech Mahindra,"Hyderabad, Telangana, India","Azure, Big Data, C++, Computer Science, Deep Learning, Docker",Data Science
+34,Stage de fin d'études - Consultant(e) Data Management,KPMG India,"Mumbai, Maharashtra, India","APIs, Architecture, AWS, Azure, Big Data, Business Intelligence",Data Science
+35,MLOps Engineer Intern (Alternance),Tech Mahindra,"Hyderabad, Telangana, India","Azure, Big Data, CI/CD, Computer Science, Databricks, Deep Learning",Other
+36,Alternance Data Analyst (H/F),Larsen & Toubro,"Chennai, Tamil Nadu, India","Data analysis, Excel, Power BI, Python, R, R&D",Data Science
+37,Data Management Intern (12 months Internship),EcoVadis India,"Pune, Maharashtra, India","Classification, Data management, Excel, Research",Data Science
+38,"Intern, ML Ops",Swiggy,"Bangalore, Karnataka, India","AWS, Azure, Computer Science, Docker, GCP, Google Cloud",Other
+39,Website & Data analyses - Internship EU student,Bosch India,"Chennai, Tamil Nadu, India","E-commerce, Research, Testing",Data Science
+40,Computer Vision Intern,SenseHawk,"Bangalore, Karnataka, India","Computer Vision, Consulting, Engineering, Machine Learning",Other
+41,Data Science Intern | Social Media Analysis | India,InMobi,"Bangalore, Karnataka, India","AWS, Data analysis, Data visualization, Engineering, Machine intelligence, Machine Learning",Data Science
+42,Data Science Intern,Gaana,"Gurgaon, Haryana, India","Computer Science, Data Mining, Deep Learning, Engineering, Excel, KPIs",Data Science
+43,"Machine Learning Engineer, Comprehension Intern",Niramai,"Bangalore, Karnataka, India","Computer Science, ETL, Machine Learning, Mathematics, NLP, OOP",Data Science
+44,"Data Analyst, Search Intern",Niramai,"Bangalore, Karnataka, India","Business Analytics, Computer Science, Machine Learning, Mathematics, NLP, Python",Data Science
+45,Summer 2023: Machine Learning Intern,Tata Elxsi,"Bangalore, Karnataka, India","Architecture, Autonomous Driving, Computer Science, Data Mining, Distributed Systems, Machine Learning",Data Science
+46,"Co-Op/Intern Software Engineer, AI Platform",Mindtree,"Pune, Maharashtra, India","Big Data, Bitbucket, DevOps, Engineering, GitHub, Industrial",AI/ML
+47,Data Science Trainee - REF1574S,HCL Technologies,"Chennai, Tamil Nadu, India","Agile, Computer Science, Jira, Kanban, Keras, Machine Learning",Data Science
+48,Data Analyst (6 month internship) (M/F),Larsen & Toubro,"Chennai, Tamil Nadu, India","Data management, Data quality, R, R&D, Testing",Data Science
+49,"Intern, Associate Data Analyst",Visa India,"Bangalore, Karnataka, India","Computer Science, Data Analytics, Data visualization, Engineering, Excel, SQL",Data Science
+50,Natural Language Processing Intern,Jio,"Mumbai, Maharashtra, India","Computer Science, LLMs, Machine Learning, NLP, OOP, Prototyping",Other
+51,Data Scientist Intern,Razorpay,"Bangalore, Karnataka, India","Classification, Computer Science, Data visualization, Deep Learning, Finance, Linear algebra",Data Science
+52,Amazon Robotics - Applied Scientist Intern - 2023,Amazon India,"Hyderabad, Telangana, India","Computer Science, Computer Vision, Engineering, Machine Learning, Mathematics, PhD",Other
+53,Machine Learning Content Development Intern,BYJU'S,"Bangalore, Karnataka, India","Engineering, GitHub, Machine Learning, MLFlow, Python, Teaching",Data Science
+54,Junior Machine Learning Engineer - Pune (internship),Persistent Systems,"Pune, Maharashtra, India","Classification, Clustering, Computer Science, D3, Deep Learning, Engineering",Data Science
+55,Data Scientist - Intern,Swiggy,"Bangalore, Karnataka, India","Architecture, AWS, Big Data, Computer Science, Data analysis, GCP",Data Science
+56,Data Analysis Intern - Mumbai,OYO,"Gurgaon, Haryana, India","Business Intelligence, Data analysis, Data Analytics, Data quality, Engineering, Excel",Data Science
+57,Junior Machine Learning Engineer - Bangalore (internship),Wipro,"Bangalore, Karnataka, India","Classification, Clustering, Computer Science, D3, Deep Learning, Engineering",Data Science
+58,Sports Data Science Intern,Dream11,"Mumbai, Maharashtra, India","Bayesian, CI/CD, Computer Science, Data analysis, Data management, Engineering",Data Science
+59,Computer Vision / Machine Learning Intern,Tonbo Imaging,"Bangalore, Karnataka, India","C++, Computer Science, Computer Vision, Machine Learning, ML models, NLP",Data Science
+60,Machine Learning Engineer 2023 Internship Programme (6 months),Schlumberger India,"Pune, Maharashtra, India","C++, Computer Science, Deep Learning, HPC, Machine Learning, Mathematics",Data Science
+61,Junior Data Analyst - Extra Curricular Internship,WPP India,"Mumbai, Maharashtra, India","Big Data, Computer Science, Consulting, Data analysis, Data Mining, Data quality",Data Science
+62,Intern for AI Machine Learning - AquaEasy,Bosch India,"Chennai, Tamil Nadu, India","Data analysis, Data visualization, Machine Learning, Python, R, R&D",Data Science
+63,2023 Software Engineering Internship - Data Engineer,Zoho,"Chennai, Tamil Nadu, India","ANN, Engineering, Golang, Helm, Python, Research",Data Science
+64,[Intern] AI/ Computer Vision Engineer,Bosch India,"Bangalore, Karnataka, India","Computer Science, Computer Vision, Consulting, Deep Learning, Economics, Engineering",AI/ML
+65,"Intern, Data Science & Analytics",WPP India,"Mumbai, Maharashtra, India","Data strategy, Data Studio, Excel, Power BI, Python, Research",Data Science
+66,Internship for BigData Analysis in the areas of Project Management and SW Development Metrics,Bosch India,"Pune, Maharashtra, India","Azure, Big Data, Computer Science, Data analysis, Engineering, Excel",Data Science
+67,Data Analytics Intern (Summer 2023),NASSCOM,"New Delhi, India","Big Data, BigQuery, Computer Science, Data analysis, Data Analytics, Data Studio",Data Science
+68,Customer Data Specialist Intern,Capgemini India,"Bangalore, Karnataka, India","Airtable, APIs, Business Analytics, Business Intelligence, Data visualization, ETL",Data Science
+69,Project Manager Intern - SparkLabs,InMobi,"Bangalore, Karnataka, India","Excel, Jira, Privacy, Testing",Other
+70,Machine Learning Research Engineer Internship,Ather Energy,"Bangalore, Karnataka, India","Chemistry, CI/CD, Git, Machine Learning, ML models, NumPy",Data Science
+71,"India - Early Talent - Data Science Intern, Decisions-Product - Mumbai, India (Summer 2023)",Ola,"Mumbai, Maharashtra, India","A/B testing, Biology, Computer Science, Economics, Engineering, Mathematics",Data Science
+72,Data Management Intern (12 months Internship),EcoVadis India,"Pune, Maharashtra, India","Classification, Data management, Excel, Research",Data Science
+73,Battery Data Science Intern,Ather Energy,"Bangalore, Karnataka, India","Chemistry, CI/CD, Computer Science, Data pipelines, Engineering, Git",Data Science
+74,Data Engineering Intern,Housing.com,"Mumbai, Maharashtra, India","Computer Science, Engineering, Python, RDBMS, Scala, SQL",Data Science
+75,Data Analyst (6 month internship) (M/F),Larsen & Toubro,"Chennai, Tamil Nadu, India","Data management, Data quality, Industrial, R, R&D, Testing",Data Science
+76,"Data Science Intern, Registries and Real World Data",Dr. Reddy's Laboratories,"Hyderabad, Telangana, India","Biology, Computer Science, Data quality, Engineering, Machine Learning, Mathematics",Data Science
+77,Network Data Science Intern,Airtel,"Gurgaon, Haryana, India","APIs, Privacy",Data Science
+78,Data Science Trainee - REF1574S,HCL Technologies,"Chennai, Tamil Nadu, India","Agile, Computer Science, Jira, Kanban, Keras, Machine Learning",Data Science
+79,Stage - Ingénieur véhicule autonome,Mahindra & Mahindra,"Chennai, Tamil Nadu, India","Python, R, R&D",Other
+80,"Data Science Intern, Computational Biology",Dr. Reddy's Laboratories,"Hyderabad, Telangana, India","Architecture, Biology, Computer Science, Data analysis, EDA, Engineering",Data Science
+81,"Data Analytics Intern, Innovation Operations",Tata Consultancy Services,"Mumbai, Maharashtra, India","Computer Science, Data Analytics, Data visualization, Economics, Excel, Finance",Data Science
+82,2023 Co-op Student - Digital Automation -- Data Analyst (May- Nov),Bosch India,"Pune, Maharashtra, India","Computer Science, Engineering, Excel, Industrial, KNIME, Mathematics",Data Science
+83,Summer Intern: Data Science,Zomato,"Gurgaon, Haryana, India","AWS, Data analysis, EDA, Machine Learning, ML infrastructure, NLP",Data Science
+84,STAGE 6 mois - Data Scientist Junior H/F,Reliance Digital,"Mumbai, Maharashtra, India","Big Data, Power BI, Python, R, SQL",Data Science
+85,Data Engineer - Intern (Summer 2023),Druva,"Pune, Maharashtra, India","Angular, APIs, Architecture, Computer Science, Data Analytics, Engineering",Data Science
+86,Business Data Analyst Intern (APAC),Cashfree Payments,"Bangalore, Karnataka, India","Consulting, Data visualization, KPIs, Python, SQL, Tableau",Data Science
+87,Junior Data Analyst (end-of-studies internship),InMobi,"Bangalore, Karnataka, India","Consulting, Engineering, Excel, Machine Learning, Mathematics, SQL",Data Science
+88,Consultant.e.s – Stage/Alternance -  IT & Data Architecture,Deloitte India,"Mumbai, Maharashtra, India","APIs, Architecture, AWS, Azure, Big Data, DevOps",Data Science
+89,Product Data Analyst Intern m/f/d,Gaana,"Gurgaon, Haryana, India","Data analysis, Data pipelines, Data visualization, KPIs, Pipelines, Python",Data Science
+90,2023 Business Intelligence Engineer Internship,Amazon India,"Bangalore, Karnataka, India","AWS, Business Intelligence, Computer Science, Data Mining, Data pipelines, Data warehouse",Other
+91,Data Scientist Trainee (m/w/d),UPL Limited,"Mumbai, Maharashtra, India","AWS, Big Data, Data Mining, Deep Learning, Machine Learning, NoSQL",Data Science
+92,"Data Science & Analytics, Summer Intern",WPP India,"Mumbai, Maharashtra, India","Data visualization, Excel, Mathematics, Statistics, STEM, Tableau",Data Science
+93,Business Intelligence & Data Visualization,Deloitte India,"Mumbai, Maharashtra, India","Agile, Business Intelligence, Data visualization, Machine Learning, Research, UX",Data Science
+94,Data Analyst Intern - Bangalore,Swiggy,"Bangalore, Karnataka, India","Data analysis, GCP, Google Cloud, Machine Learning, ML models, Python",Data Science
+95,Data Analyst Intern,Lendingkart,"Ahmedabad, Gujarat, India","Business Intelligence, Data Analytics, Data visualization, Data warehouse, Finance, FinTech",Data Science
+96,Machine Learning/Artificial Intelligence Intern,Strand Life Sciences,"Bangalore, Karnataka, India","Biology, Computer Science, HPC, Linux, Machine Learning, NLP",Data Science
+97,"NLP Software Engineer, Intern",GreyOrange,"Gurgaon, Haryana, India","BERT, Computer Science, Data analysis, GitHub, GPT, Machine Learning",Other
+98,Data Engineer - Intern,Snowflake India,"Bangalore, Karnataka, India","Airflow, APIs, AWS, Azure, Computer Science, Data pipelines",Data Science
+99,"Perception Intern, Deep Learning Data",Tata Elxsi,"Bangalore, Karnataka, India","AWS, Deep Learning, Docker, Git, Lidar, Python",Data Science
+100,Data Analyst Intern - Hyderabad,Swiggy,"Hyderabad, Telangana, India","Data analysis, GCP, Google Cloud, Machine Learning, ML models, Python",Data Science
+101,[Intern] AI/ Computer Vision Engineer,Bosch India,"Bangalore, Karnataka, India","Computer Science, Computer Vision, Consulting, Deep Learning, Economics, Engineering",AI/ML
+102,"Intern, AI research engineer",Bosch India,"Chennai, Tamil Nadu, India","Computer Science, Computer Vision, Deep Learning, Engineering, Industrial, Machine Learning",AI/ML
+103,"Phd -Interns, Data Scientist",Western Digital India,"Bangalore, Karnataka, India","Agile, Architecture, Classification, Data Mining, Data pipelines, Deep Learning",Data Science
+104,Computational Biology Intern,Biocon,"Bangalore, Karnataka, India","Biology, Computer Science, Deep Learning, Drug discovery, Machine Learning, Python",Other
+105,Amazon Robotics - Applied Scientist Intern/Co-op - 2023,Amazon India,"Hyderabad, Telangana, India","Computer Science, Computer Vision, Engineering, Machine Learning, Mathematics, PhD",Other
+106,PhD Machine Learning Engineer Intern (Summer 2023),Phonepe,"Bangalore, Karnataka, India","Architecture, AWS, Banking, Blockchain, Computer Science, Crypto",Data Science
+107,Reporting and Data Infrastructure Intern,Paytm,"Noida, Uttar Pradesh, India","Banking, Computer Science, Data governance, FinTech, LookML, Privacy",Data Science
+108,Campus | Data Engineer (Intern),Zerodha,"Bangalore, Karnataka, India","Data Analytics, Economics, Engineering, Finance, Linux, MySQL",Data Science
+109,Data Analyst Intern (Summer 2023),Druva,"Pune, Maharashtra, India","Big Data, BigQuery, Computer Science, Data Analytics, Engineering, Finance",Data Science
+110,Data Science Intern (Summer 2023),PhonePe,"Bangalore, Karnataka, India","A/B testing, Airflow, Banking, BigQuery, Blockchain, Computer Science",Data Science
+111,Data Engineer Internship,1mg,"Gurgaon, Haryana, India","AWS, Data pipelines, DevOps, Engineering, ETL, Excel",Data Science
+112,Data Analytics Intern: Consumer Economics,Paytm,"Noida, Uttar Pradesh, India","Banking, Data Analytics, Data visualization, Economics, FinTech, Privacy",Data Science
+113,Grad Intern: Bioinformatics/Assay Data Visualization and Analysis,Strand Life Sciences,"Bangalore, Karnataka, India","Data Analytics, Data visualization, Engineering, Matplotlib, PhD, Plotly",Data Science
+114,Data Operations Intern (Quality Assurance),Jio,"Mumbai, Maharashtra, India","Agile, Databricks, DataOps, Excel, Jira, PySpark",Data Science
+115,Data Science Intern,Flipkart,"Bangalore, Karnataka, India","Causal inference, Computer Science, Economics, Machine Learning, PhD, Python",Data Science
+116,Data Engineer / Data Analyst - Stage de fin d'études - Mumbai,Tata Digital,"Mumbai, Maharashtra, India","Agile, Architecture, AWS, BigQuery, Dataflow, Data visualization",Data Science
+117,[Internship] - Junior Data Scientist #2 (W/M),Nykaa,"Mumbai, Maharashtra, India","Agile, Biology, Computer Science, Data analysis, E-commerce, Economics",Data Science
+118,[Internship] - Junior Data Scientist #1 (W/M),Nykaa,"Mumbai, Maharashtra, India","Agile, Biology, Computer Science, Data analysis, E-commerce, Economics",Data Science
+119,PhD Intern - Data Science,Western Digital India,"Bangalore, Karnataka, India","Big Data, Computer Science, Data Analytics, Deep Learning, Engineering, Linear algebra",Data Science
+120,Jr Data Engineer - Internship,Bosch India,"Pune, Maharashtra, India","Business Intelligence, Computer Science, Data analysis, Engineering, Industrial, Mathematics",Data Science
+121,Engineering Intern (Data Engineering),Jio,"Mumbai, Maharashtra, India","Agile, Architecture, AWS, Azure, Big Data, Data visualization",Data Science
+122,[Internship] Machine Learning,Observe.AI,"Bangalore, Karnataka, India","Deep Learning, Linear algebra, Machine Learning, NLP, NumPy, Pandas",Data Science
+123,Research Analyst Intern (Summer 2023 ),CRISIL,"Mumbai, Maharashtra, India","Consulting, Economics, Excel, Python, Research, SQL",Data Science
+124,Data Operations Intern (Data Management),Jio,"Mumbai, Maharashtra, India","Agile, Databricks, Data management, DataOps, Data quality, Excel",Data Science
+125,Machine Learning Research Engineer Internship,Ather Energy,"Bangalore, Karnataka, India","Chemistry, CI/CD, Git, Machine Learning, ML models, NumPy",Data Science
+126,Data Scientist Intern,Licious,"Bangalore, Karnataka, India","Deep Learning, NumPy, Pandas, Python, R, R&D",Data Science
+127,"Intern, Data Engineering - Digital Innovation (Summer 2023)",Western Digital India,"Bangalore, Karnataka, India","Computer Science, Data analysis, Data pipelines, Data quality, EDA, Engineering",Data Science
+128,Data Science & Analytics Intern,ShareChat,"Bangalore, Karnataka, India","Business Intelligence, Data pipelines, ETL, Machine Learning, MySQL, Pipelines",Data Science
+129,AI/ML Graduate Intern with Focus on AI Engineering (6 - 12 Months),Bosch India,"Pune, Maharashtra, India","AWS, Azure, Computer Science, Engineering, GCP, Industrial",AI/ML
+130,Data Analytics Intern,Myntra,"Bangalore, Karnataka, India","Data Analytics, E-commerce",Data Science
+131,Data Science Intern,CyberSecurity Works,"Mumbai, Maharashtra, India","Python, Security",Data Science
+132,Data Analytics Intern (Pricing Analyst) - 2023  Summer Internship Program,ICICI Lombard,"Mumbai, Maharashtra, India","Business Intelligence, Data analysis, Data Analytics, Data management, Data quality, Data visualization",Data Science
+133,Internship: Data Analyst Intern,Healthify,"Bangalore, Karnataka, India","Computer Science, Data Analytics, Mathematics, Physics, SQL, Statistics",Data Science
+134,Data Analyst - Stage de fin d'études - Mumbai,Tata Digital,"Mumbai, Maharashtra, India","Agile, Architecture, AWS, BigQuery, Dataflow, Data visualization",Data Science
+135,Internship Big Data for Fleet Validation,Bosch India,"Pune, Maharashtra, India","Agile, Azure, Big Data, Data analysis, Databricks, Engineering",Data Science
+136,Data Engineer - Stage de fin d'études - Mumbai,Tata Digital,"Mumbai, Maharashtra, India","Agile, Architecture, AWS, BigQuery, Dataflow, Data visualization",Data Science
+137,AI/ML Summer Intern,Palo Alto Networks India,"Bangalore, Karnataka, India","Data pipelines, Distributed Systems, Engineering, Linear algebra, Machine Learning, ML infrastructure",AI/ML
+138,Internship: Data Science Intern,Healthify,"Bangalore, Karnataka, India","Computer Science, Mathematics, Pandas, Physics, Python, Research",Data Science
+139,Data Scientist Trainee (m/w/d),UPL Limited,"Mumbai, Maharashtra, India","AWS, Big Data, Data Mining, Deep Learning, Machine Learning, NoSQL",Data Science
+140,Machine Learning Engineer Summer 2023 Internship,Biocon,"Bangalore, Karnataka, India","Biology, Computer Science, Engineering, Machine Learning, Mathematics, ML infrastructure",Data Science
+141,Machine Learning Internship,GreyOrange,"Gurgaon, Haryana, India","Computer Vision, CUDA, Deep Learning, Engineering, GPU, Machine Learning",Data Science
+142,Digital Data Analyst,WPP India,"Mumbai, Maharashtra, India","Data Studio, Excel, Jira, Spark",Data Science
+143,Data Scientist (End-of-studies Internship),Fractal Analytics,"Mumbai, Maharashtra, India","Big Data, Chatbots, Computer Science, Engineering, Machine Learning, Mathematics",Data Science
+144,Data Analyst Intern,Tata Elxsi,"Bangalore, Karnataka, India","Athena, AWS, Computer Science, Data analysis, Data Analytics, Data visualization",Data Science
+145,"Bioinformatics Intern, Machine Learning",Strand Life Sciences,"Bangalore, Karnataka, India","AWS, Biology, Data analysis, Genetics, Git, GitHub",Data Science
+146,AI/ML Graduate Intern with Focus on AI Engineering,Bosch India,"Pune, Maharashtra, India","AWS, Azure, Computer Science, Engineering, GCP, Industrial",AI/ML
+147,Summer Internship - Data Science / Advanced Analytics,WPP India,"Mumbai, Maharashtra, India","Excel, R",Data Science
+148,Data Analytics Internship,Dunzo,"Bangalore, Karnataka, India","Data Analytics, Grafana, Python, SQL, Statistics, Tableau",Data Science
+149,Computer vision Developer Intern,Flutura,"Bangalore, Karnataka, India","Computer Vision, Distributed Systems, GPU, JavaScript, Jupyter, Mathematics",Other
+150,Machine Learning/Artificial Intelligence Intern,Strand Life Sciences,"Bangalore, Karnataka, India","Biology, Computer Science, HPC, Linux, Machine Learning, NLP",Data Science
+151,"Academic Internship - Deep Learning, Synthetic Data",Bosch India,"Pune, Maharashtra, India","Autonomous Driving, Computer Science, Computer Vision, Deep Learning, Lidar, Machine Learning",Data Science
+152,"Academic Internship - Deep Learning, Multi-Task",Bosch India,"Pune, Maharashtra, India","Computer Science, Computer Vision, Deep Learning, Lidar, Machine Learning, Physics",Other
+153,"Phd -Interns, Data Scientist",Western Digital India,"Bangalore, Karnataka, India","Big Data, Computer Science, Data Analytics, Engineering, Machine Learning, PhD",Data Science
+154,"Business Application Intern, Machine Learning",Strand Life Sciences,"Bangalore, Karnataka, India","Architecture, AWS, Computer Science, Engineering, Machine Learning, Privacy",Data Science
+155,Data Analytics Intern,CyberSecurity Works,"Mumbai, Maharashtra, India","Computer Science, Data Analytics, Looker, Prototyping, Security, SQL",Data Science
+156,Data Sciences Intern,WPP India,"Mumbai, Maharashtra, India","Data analysis, Economics, Engineering, Mathematics, .NET, RDBMS",Data Science
+157,Internship – Machine Learning/MLOps Engineer (6 months),Schlumberger India,"Pune, Maharashtra, India","CI/CD, Computer Science, Engineering, HPC, Machine Learning, MLFlow",Data Science
+158,"Intern, Data Engineering (Summer 2023)",Western Digital India,"Bangalore, Karnataka, India","AWS, Big Data, Computer Science, Data analysis, Data Analytics, Data pipelines",Data Science
+159,Internship Embedded AI Engineering,Bosch India,"Bangalore, Karnataka, India","Computer Science, Deep Learning, Engineering, Machine Learning, Mathematics, Physics",AI/ML
+160,Data Analyst Intern,BigBasket,"Bangalore, Karnataka, India","Agile, Big Data, Business Analytics, Computer Science, Data analysis, E-commerce",Data Science
+161,Data Scientist - Internship,Razorpay,"Bangalore, Karnataka, India","Classification, Machine Learning, ML models, NumPy, Pandas, Python",Data Science
+162,Computer vision Developer,Flutura,"Bangalore, Karnataka, India","Computer Vision, Distributed Systems, GPU, JavaScript, Jupyter, Mathematics",Other
+163,Data Engineer / Data Analyst - Stage de fin d'études - Mumbai,Tata Digital,"Mumbai, Maharashtra, India","Agile, Architecture, AWS, BigQuery, Dataflow, Data visualization",Data Science
+164,"Intern, Data Engineer",Apollo Hospitals,"Chennai, Tamil Nadu, India","Business Intelligence, Computer Science, ELT, Engineering, Healthcare technology, Snowflake",Data Science
+165,Data Science and Systems Engineers - Summer Intern 2023,Tata Consultancy Services,"Mumbai, Maharashtra, India","Agile, Computer Science, Consulting, Engineering, Excel, Mathematics",Data Science
+166,AI Engineer Internship,Ather Energy,"Bangalore, Karnataka, India","Agile, APIs, Deep Learning, Keras, Machine Learning, NumPy",AI/ML
+167,India - Early Talent - Supply Chain Data Analyst Intern (Summer 2023),Ola,"Mumbai, Maharashtra, India","Business Analytics, Data analysis, Excel, Jira, Power BI, SQL",Data Science
+168,Machine Learning Engineer Intern,Flutura,"Bangalore, Karnataka, India","Architecture, Computer Vision, CUDA, cuDNN, Deep Learning, DenseNet",Data Science
+169,AI Scientist Internship,Biocon,"Bangalore, Karnataka, India","Architecture, Biology, Chemistry, Computer Science, Deep Learning, Drug discovery",AI/ML
+170,"Spring Internship Program - Machine Learning Engineer (Bangalore, Pune, Chennai)",Mphasis,"Bangalore, Karnataka, India","Computer Science, Computer Vision, Deep Learning, Machine Learning, NLP, NumPy",Data Science
+171,Stagiaire Data Analyst (F/H/NB),Nazara Technologies,"Mumbai, Maharashtra, India","Airflow, ETL, Git, Hadoop, PySpark, Python",Data Science
+172,Data Science Intern,Flipkart,"Bangalore, Karnataka, India","Computer Vision, Data Mining, Deep Learning, Diffusion models, E-commerce, ICLR",Data Science
+173,Bioinformatics Data Scientist Internship,Biocon,"Bangalore, Karnataka, India","Biology, Causal inference, Data Analytics, Data pipelines, Drug discovery, Engineering",Data Science
+174,Data Science Intern,Jio,"Mumbai, Maharashtra, India","APIs, Architecture, Data analysis, Power BI, Python, SQL",Data Science
+175,Data Scientist Internship,Biocon,"Bangalore, Karnataka, India","Biology, Data analysis, Data quality, Drug discovery, Jupyter, Machine Learning",Data Science
+176,Data Science Intern | India,InMobi,"Bangalore, Karnataka, India","Computer Science, Data analysis, Data Analytics, Data Studio, Engineering, Machine Learning",Data Science
+177,"Summer Internship, Data Scientist | Content Business (India)",Gaana,"Gurgaon, Haryana, India","Computer Science, Economics, Machine Learning, Mathematics, ML models, PhD",Data Science
+178,Stage de fin d'études - Consultant(e) Data Management,KPMG India,"Mumbai, Maharashtra, India","APIs, Architecture, AWS, Azure, Big Data, Business Intelligence",Data Science
+179,Machine Learning Intern,CropIn,"Bangalore, Karnataka, India","AWS, Computer Vision, Deep Learning, GCP, Git, GPU",Data Science
+180,"Summer Internship, Machine Learning Engineer Intern | Platform Mission (India)",Gaana,"Gurgaon, Haryana, India","A/B testing, Agile, Cassandra, Classification, Data quality, Flink",Data Science
+181,Data Developer Intern,Skymet Weather,"Gurgaon, Haryana, India",DataOps,Data Science
+182,Machine Learning Engineering Intern,MapmyIndia,"New Delhi, India","Computer Science, Data Mining, Data pipelines, Deep Learning, Engineering, Hadoop",Data Science
+183,Climate Data Analyst - Intern (Asset Impact) | Mumbai or Bangalore,Tata Power,"Mumbai, Maharashtra, India","Data analysis, Excel, Finance, Python, R, RDBMS",Data Science
+184,AI Research Internship,TCS Research,Pune,"Python, Deep Learning, NLP",AI/ML
+185,Data Science Intern,Fractal Analytics,Mumbai,"Python, SQL, Tableau, ML",Data Science
+186,Machine Learning Internship,CureSkin,Bangalore,"Python, TensorFlow, OpenCV",AI/ML
+187,AI Intern,NVIDIA India,Pune,"Python, CUDA, Deep Learning",AI/ML
+188,Data Analyst Intern,Mu Sigma,Bangalore,"R, SQL, Excel, Business Analytics",Data Science
+189,AI/ML Intern,Samsung R&D,Noida,"Python, ML, DL, Data Structures",AI/ML
+190,Data Science Internship,Jio Platforms,Mumbai,"Python, Spark, SQL, ML",Data Science
+191,AI Intern,Intel India,Bangalore,"Python, C++, ML, DL",AI/ML
+192,Data Science Intern,ZestMoney,Bangalore,"Python, SQL, Data Visualization",Data Science
+193,AI/ML Intern,HCL Technologies,Chennai,"Python, ML, NLP",AI/ML
+194,Data Science Intern,Paytm,Noida,"Python, SQL, ML, Data Analysis",Data Science
+195,AI Intern,Zoho Corp,Chennai,"Python, ML, DL",AI/ML
+196,Data Science Internship,Swiggy,Bangalore,"Python, SQL, ML, Business Intelligence",Data Science
+197,AI/ML Intern,Tech Mahindra,Hyderabad,"Python, ML, DL, NLP",AI/ML
+198,Data Science Intern,InMobi,Bangalore,"Python, R, SQL, ML",Data Science
+199,AI Intern,Mindtree,Bhubaneswar,"Python, ML, DL",AI/ML
+200,Data Science Internship,Capgemini,Kolkata,"Python, SQL, Tableau",Data Science
+201,AI/ML Intern,Wipro,Hyderabad,"Python, ML, DL",AI/ML
+202,Data Science Intern,Infosys,Mysore,"Python, R, ML, Data Visualization",Data Science
+203,AI Intern,Persistent Systems,Nagpur,"Python, ML, DL",AI/ML
+204,Data Science Internship,Cimpress India,Ahmedabad,"Python, SQL, ML",Data Science
+205,AI/ML Intern,Tata Elxsi,Trivandrum,"Python, ML, DL",AI/ML
+206,Data Science Intern,Delhivery,Gurgaon,"Python, SQL, ML",Data Science
+207,AI Intern,Bosch India,Coimbatore,"Python, ML, DL",AI/ML
+208,Data Science Internship,Razorpay,Bangalore,"Python, SQL, ML, Data Engineering",Data Science
+209,IDEAS TIH Autumn Internship 2025,"IDEAS Technology Innovation Hub, ISI Kolkata",Kolkata,"Python, Machine Learning, AI, Data Structures, Communication",AI/ML
+210,AI & Data Science Internship,Nutrail Cognitive Analytics Pvt Ltd,Kolkata,"Python, SQL, Data Cleaning, Visualization, Web Design",Data Science
+211,Full Stack AI Development Internship,Blue Copper Technologies Pvt Ltd,Kolkata,"Python, JavaScript, HTML/CSS, ML, DevOps",AI/ML
+212,Data Science & ML Internship,Centre of Excellence – WEBEL,Kolkata,"Python, AI/ML",Data Science
+213,AI & Data Science Internship,Nutrail Analytics,India,"Python, SQL, Data Cleaning, Visualization, Web Design",AI/ML
+214,Data Science Internship – AI,Skillfied Mentor Jobs,Pune,"Python, Pandas, NumPy, Scikit-learn, TensorFlow",Data Science
+215,AI and Data Science Intern,beBeeDataScience,Varanasi,"Python, SQL, Data Cleaning, Visualization, Web Design",AI/ML
+216,Data Science Intern,ARKRAY Inc.,Pune,"Python, C++, Pandas, PyTorch, TensorFlow",Data Science
+217,Data Science Intern,Zetheta Algorithms Pvt Ltd,India,"Python, Excel, R, Financial Modeling",Data Science
+218,AI Internship,AICTE National Portal,Pan India,"Python, AI, ML",AI/ML
+219,Artificial Intelligence Internship,AICTE National Portal,Vijayawada,"Python, Deep Learning, ML",AI/ML
+220,AI & ML Using Python,AICTE National Portal,Bangalore,"Python, ML",AI/ML
+221,Artificial Intelligence Internship,AICTE National Portal,Pan India,"Python, AI",AI/ML
+222,AI & Predictive Modeling Intern,AICTE National Portal,Pan India,"Python, Predictive Modeling",AI/ML
+223,Data Science Internship,Urban NXT,Mumbai,"Python, Data Analysis, Reporting",Data Science
+224,AI Lab Solutions Internship,AI Lab Solutions,Hyderabad,"Python, ML, Deep Learning",AI/ML
+225,Business Quant Internship,Business Quant,Delhi,"Python, Financial Modeling, Data Visualization",Data Science
+226,SoulPage IT Solutions Internship,SoulPage IT Solutions,Hyderabad,"Python, AI, ML",AI/ML
+227,Analytics Vidhya Internship,Analytics Vidhya,Gurgaon,"Python, Data Science, ML",Data Science
+228,Xcaliber Infotech Internship,Xcaliber Infotech,Nagpur,"Python, AI, ML",AI/ML
+229,Frontend Web Developer Intern,ClearTax,Bangalore,"HTML, CSS, JavaScript, React",Web Development
+230,Mobile App Development Intern,Zomato,Gurgaon,"Flutter, Dart, Firebase",Mobile Development
+231,Cybersecurity Analyst Intern,Tata Consultancy Services,Mumbai,"Network Security, Ethical Hacking, Python",Cybersecurity
+232,Cloud Engineering Intern,Amazon Web Services,Hyderabad,"AWS, Docker, Linux, Python",Cloud Computing
+233,UI/UX Design Intern,Flipkart,Bangalore,"Figma, Adobe XD, Wireframing",UI/UX
+234,DevOps Intern,Infosys,Pune,"Jenkins, Docker, Kubernetes",DevOps
+235,Blockchain Developer Intern,Polygon Labs,Mumbai,"Solidity, Ethereum, Smart Contracts",Blockchain
+236,IoT Systems Intern,Bosch India,Coimbatore,"Arduino, Raspberry Pi, MQTT",IoT
+237,Full Stack Web Intern,Razorpay,Bangalore,"Node.js, React, MongoDB",Web Development
+238,Android Developer Intern,Paytm,Noida,"Java, Kotlin, Android Studio",Mobile Development
+239,Security Operations Intern,HCL Technologies,Chennai,"SIEM, Threat Analysis, Python",Cybersecurity
+240,Cloud DevOps Intern,Microsoft India,Hyderabad,"Azure, CI/CD, Terraform",Cloud Computing
+241,UX Research Intern,Swiggy,Bangalore,"User Research, Prototyping, Figma",UI/UX
+242,DevOps Automation Intern,Tech Mahindra,Pune,"Ansible, Jenkins, Bash",DevOps
+243,Blockchain Intern,WazirX,Mumbai,"Solidity, Web3.js, Ethereum",Blockchain
+244,IoT Development Intern,Tata Elxsi,Trivandrum,"Embedded C, Sensors, MQTT",IoT
+245,React Web Developer Intern,Urban Company,Delhi,"React, Redux, CSS",Web Development
+246,iOS Developer Intern,CureFit,Bangalore,"Swift, Xcode, Firebase",Mobile Development
+247,Penetration Testing Intern,KPMG India,Mumbai,"Burp Suite, Kali Linux, OWASP",Cybersecurity
+248,Cloud Infrastructure Intern,Google India,Hyderabad,"GCP, Kubernetes, Python",Cloud Computing
+249,UI/UX Intern,Zoho Corp,Chennai,"Sketch, Figma, User Testing",UI/UX
+250,DevOps Intern,Red Hat,Pune,"Linux, Docker, GitLab",DevOps
+251,Smart Contract Intern,CoinDCX,Mumbai,"Solidity, Truffle, Ethereum",Blockchain
+252,IoT Hardware Intern,Siemens India,Gurgaon,"PCB Design, Sensors, Embedded Systems",IoT
+253,Web Developer Intern,Freshworks,Chennai,"HTML, CSS, JavaScript",Web Development
+254,Flutter Developer Intern,Meesho,Bangalore,"Flutter, Dart, REST APIs",Mobile Development
+255,Cybersecurity Intern,EY India,Delhi,"Python, Network Security, Risk Assessment",Cybersecurity
+256,Cloud Solutions Intern,Oracle India,Hyderabad,"OCI, Linux, Bash",Cloud Computing
+257,UX Design Intern,BYJU'S,Bangalore,"Figma, Adobe XD, User Flows",UI/UX
+258,DevOps Intern,Mindtree,Bhubaneswar,"Docker, Jenkins, Git",DevOps
+259,Blockchain Research Intern,ZebPay,Ahmedabad,"Solidity, Ethereum, Cryptography",Blockchain
+260,IoT Intern,Honeywell India,Bangalore,"Python, Sensors, MQTT",IoT
+261,Web Development Intern,InMobi,Bangalore,"React, Node.js, CSS",Web Development
+262,Mobile App Intern,OYO Rooms,Gurgaon,"Java, Android SDK, Firebase",Mobile Development
+263,Cybersecurity Intern,Dell India,Hyderabad,"Python, SIEM, Threat Detection",Cybersecurity
+264,Cloud Intern,IBM India,Bangalore,"AWS, Docker, Python",Cloud Computing
+265,UI/UX Intern,TCS Digital,Mumbai,"Figma, Wireframes, User Testing",UI/UX
+266,DevOps Intern,L&T Infotech,Chennai,"CI/CD, Jenkins, Docker",DevOps
+267,Web Developer Intern,Technovert,Hyderabad,"HTML, CSS, JavaScript, React",Web Development
+268,Mobile App Developer Intern,Mobisy Technologies,Bangalore,"Flutter, Dart, Firebase",Mobile Development
+269,Cybersecurity Intern,Lucideus,Delhi,"Ethical Hacking, Python, Kali Linux",Cybersecurity
+270,Cloud Engineering Intern,Zoho Corp,Chennai,"AWS, Docker, Linux",Cloud Computing
+271,UI/UX Design Intern,Freshworks,Chennai,"Figma, Adobe XD, Wireframes",UI/UX
+272,DevOps Intern,ThoughtWorks,Pune,"Jenkins, Docker, Kubernetes",DevOps
+273,Blockchain Developer Intern,Primechain Technologies,Mumbai,"Solidity, Ethereum, Smart Contracts",Blockchain
+274,IoT Intern,Intel India,Bangalore,"Arduino, Raspberry Pi, MQTT",IoT
+275,Frontend Developer Intern,BrowserStack,Mumbai,"React, Redux, JavaScript",Web Development
+276,Android Developer Intern,Inshorts,Noida,"Java, Kotlin, Android Studio",Mobile Development
+277,Security Analyst Intern,Quick Heal,Pune,"SIEM, Threat Detection, Python",Cybersecurity
+278,Cloud Solutions Intern,NetApp,Bangalore,"Azure, Terraform, Bash",Cloud Computing
+279,UX Research Intern,Cogoport,Mumbai,"User Research, Prototyping, Figma",UI/UX
+280,DevOps Intern,Zeta,Bangalore,"CI/CD, Docker, GitLab",DevOps
+281,Blockchain Intern,SoluLab,Ahmedabad,"Solidity, Web3.js, Ethereum",Blockchain
+282,IoT Systems Intern,Schneider Electric,Gurgaon,"Embedded C, Sensors, MQTT",IoT
+283,Web Development Intern,Naukri.com,Noida,"HTML, CSS, JavaScript",Web Development
+284,iOS Developer Intern,Dream11,Mumbai,"Swift, Xcode, Firebase",Mobile Development
+285,Cybersecurity Intern,TCS Digital,Kolkata,"Python, Network Security, Risk Assessment",Cybersecurity
+286,Cloud Intern,Capgemini,Hyderabad,"AWS, Linux, Python",Cloud Computing
+287,Frontend Developer Intern,CodeNation,Bangalore,"HTML, CSS, JavaScript, React",Web Development
+288,Web Development Intern,Webkul,Noida,"PHP, Laravel, MySQL",Web Development
+289,Full Stack Web Intern,Techugo,Delhi,"Node.js, Express, MongoDB",Web Development
+290,React Developer Intern,MindInventory,Ahmedabad,"React, Redux, JavaScript",Web Development
+291,Web Developer Intern,Cogoport,Mumbai,"HTML, CSS, Bootstrap",Web Development
+292,Android Developer Intern,TechAhead,Noida,"Java, Kotlin, Android Studio",Mobile Development
+293,iOS Developer Intern,Hyperlink InfoSystem,Ahmedabad,"Swift, Xcode, Firebase",Mobile Development
+294,Flutter Developer Intern,Appventurez,Noida,"Flutter, Dart, REST APIs",Mobile Development
+295,Mobile App Intern,Mobinius Technologies,Bangalore,"React Native, Redux, Firebase",Mobile Development
+296,Mobile Development Intern,Quokka Labs,Delhi,"Android SDK, Java, SQLite",Mobile Development
+297,Cybersecurity Intern,Tenable,Mumbai,"Vulnerability Scanning, Python, SIEM",Cybersecurity
+298,Security Analyst Intern,SecUR Credentials,Pune,"Network Security, Risk Assessment, Python",Cybersecurity
+299,Ethical Hacking Intern,Cyberops Infosec LLP,Jaipur,"Kali Linux, Metasploit, OWASP",Cybersecurity
+300,Information Security Intern,Inspira Enterprise,Mumbai,"SIEM, Threat Detection, Python",Cybersecurity
+301,Cybersecurity Intern,eSec Forte Technologies,Delhi,"Penetration Testing, Python, Linux",Cybersecurity
+302,Cloud Intern,Nutanix,Bangalore,"AWS, Docker, Python",Cloud Computing
+303,Cloud Solutions Intern,Rackspace,Hyderabad,"Azure, Linux, Bash",Cloud Computing
+304,Cloud Engineering Intern,CtrlS Datacenters,Mumbai,"GCP, Kubernetes, Python",Cloud Computing
+305,Cloud DevOps Intern,CloudThat,Bangalore,"Terraform, AWS, CI/CD",Cloud Computing
+306,Cloud Computing Intern,Cognizant,Chennai,"AWS, Docker, Jenkins",Cloud Computing
+307,UI/UX Intern,DesignString,Hyderabad,"Figma, Adobe XD, Wireframes",UI/UX
+308,UX Design Intern,Yellow Slice,Mumbai,"User Research, Prototyping, Sketch",UI/UX
+309,UI Designer Intern,Lollypop Design Studio,Bangalore,"Adobe XD, Figma, User Flows",UI/UX
+310,UX Research Intern,Think Design,Delhi,"User Testing, Wireframes, Figma",UI/UX
+311,UI/UX Intern,NetBramha Studios,Bangalore,"Sketch, Figma, Adobe Illustrator",UI/UX
+312,DevOps Intern,CloudBees,Pune,"Jenkins, Docker, Kubernetes",DevOps
+313,DevOps Automation Intern,OpsTree Solutions,Noida,"Ansible, Bash, CI/CD",DevOps
+314,DevOps Intern,Srijan Technologies,Delhi,"GitLab, Docker, Linux",DevOps
+315,DevOps Intern,HashedIn by Deloitte,Bangalore,"Terraform, Jenkins, AWS",DevOps
+316,DevOps Intern,Qburst,Trivandrum,"Docker, Kubernetes, Bash",DevOps
+317,Blockchain Intern,Blockwiz,Pune,"Solidity, Ethereum, Web3.js",Blockchain
+318,Smart Contract Intern,Antier Solutions,Mohali,"Solidity, Truffle, Ethereum",Blockchain
+319,Blockchain Developer Intern,Sofocle Technologies,Noida,"Hyperledger, Solidity, Ethereum",Blockchain
+320,Blockchain Research Intern,Primechain Technologies,Mumbai,"Solidity, Cryptography, Ethereum",Blockchain
+321,Blockchain Intern,ChainCode Consulting,Delhi,"Solidity, Smart Contracts, Web3.js",Blockchain
+322,IoT Intern,Emertxe Technologies,Bangalore,"Embedded C, Sensors, Raspberry Pi",IoT
+323,IoT Developer Intern,Robosoft Technologies,Udupi,"Arduino, MQTT, Python",IoT
+324,IoT Systems Intern,TechnoPurple,Mumbai,"Embedded Systems, Sensors, C++",IoT
+325,IoT Intern,eYantra Labs,Delhi,"Embedded Systems, Arduino, Raspberry Pi, C++",IoT
